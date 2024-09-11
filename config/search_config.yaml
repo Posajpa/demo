@@ -1,0 +1,20 @@
+keywords: [
+  "Climate Change",
+  "Trump"
+]
+num_records: 250
+countries: [
+  "UK",  # United Kingdom
+  "SP",  # Spain
+  "GM",  # Germany
+  "FR",  # France
+  "RO",  # Romania
+  "PL",  # Poland
+  "IT",  # Italy
+  "HR"   # Croatia
+  ]
+domain:
+domain_exact:
+theme:
+near:
+repeat:
